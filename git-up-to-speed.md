@@ -202,3 +202,29 @@ data in the index has been added to the repository store, but is not yet incorpo
 
 # :grinning:
 
+
+---
+
+
+![](https://asciinema.org/a/41100)
+
+---
+
+![wonder woman](media/200.gif)
+
+---
+
+![fit](media/asciicast.gif)
+
+---
+
+[asciicast](http://localhost:8080/index-ascii.html)
+
+---
+
+[next](http://localhost:8080/media/next.html#1)
+
+---
+
+[next?x=y](http://localhost:8080/media/next.html#2)
+

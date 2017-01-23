@@ -156,7 +156,7 @@ data in the index has been added to the repository store, but is not yet incorpo
 ---
 
 # branches
-## are git's secret sauce
+## are for humans
 
 ---
 

@@ -4,4 +4,4 @@
 # Your asciicast will be recorded to that file in static/media, with
 # a .json extension
 
-asciinema rec --command '/bin/bash --rcfile .ascii-bashrc' static/media/"${1}".json
+asciinema rec --command '/bin/bash --rcfile .ascii-bashrc' ascii/static/media/"${1}".json

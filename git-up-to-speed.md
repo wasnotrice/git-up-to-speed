@@ -211,14 +211,5 @@ data in the index has been added to the repository store, but is not yet incorpo
 
 # :grinning:
 
-
 ---
-
-
-![](https://asciinema.org/a/41100)
-
----
-
-![wonder woman](media/200.gif)
-
 

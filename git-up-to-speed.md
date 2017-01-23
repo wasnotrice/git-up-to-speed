@@ -114,6 +114,15 @@
 
 ---
 
+# [create repository](http://localhost:3000/ascii/create-repo)
+
+---
+
+# [stage content](http://localhost:3000/ascii/stage-content)
+## (add to object store)
+
+---
+
 # Commit lifecycle
 
 1. check out a branch
@@ -212,19 +221,4 @@ data in the index has been added to the repository store, but is not yet incorpo
 
 ![wonder woman](media/200.gif)
 
----
-
-![fit](media/asciicast.gif)
-
----
-
-[asciicast](http://localhost:8080/index-ascii.html)
-
----
-
-[next](http://localhost:8080/media/next.html#1)
-
----
-
-[next?x=y](http://localhost:8080/media/next.html#2)
 

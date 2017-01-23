@@ -1,8 +1,9 @@
-var express = require('express')
-var app = express()
+const process = require('process')
+const express = require('express')
+const app = express()
 
-var asciicastTemplate = function (name) {
-  var lines = [
+const asciicastTemplate = (name) => {
+  let lines = [
     '<html>',
     '<head>',
       '<title>Title</title>',
@@ -10,7 +11,7 @@ var asciicastTemplate = function (name) {
       '<link rel="stylesheet" type="text/css" href="/vendor/asciinema-player.css" />',
     '</head>',
     '<body>',
-      '<asciinema-player src="/media/' + name + '.json"></asciinema-player>',
+      `<asciinema-player src="/media/${name}.json" autoplay="true"></asciinema-player>`,
       '<script src="/vendor/asciinema-player.js"></script>',
     '</body>',
     '</html>',
@@ -19,13 +20,14 @@ var asciicastTemplate = function (name) {
   return lines.join('\n')
 }
 
-app.get('/ascii/:name', function (req, res) {
-  var html = asciicastTemplate(req.params.name)
+app.get('/ascii/:name', (req, res) => {
+  let html = asciicastTemplate(req.params.name)
   res.send(html)
 })
 
 app.use(express.static('static'))
 
-app.listen(3000, function () {
-  console.log('Server started on port 3000')
+const port = process.env.PORT || 3000
+app.listen(port, () => {
+  console.log(`Server started on port ${port}`)
 })

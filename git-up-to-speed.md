@@ -12,9 +12,14 @@
 
 ---
 
-# version control
+# distributed
+# **version control**
 
 ^ Q: What does a version control system do?
+
+---
+
+# record changes over time
 
 ^ A:
 - **Records changes** to a set of files over time
@@ -26,6 +31,14 @@
 ---
 
 # distributed
+# **version control**
+
+^ Now, let's talk about the "distributed" part
+
+---
+
+# **distributed**
+# version control
 
 ^ Examples of non-distributed systems:
 - Subversion
@@ -37,26 +50,39 @@
 - Bazaar
 - Darcs
 
----
-
-# advantages of *__distributed__* systems
-
-- no internet connection required
-- no single point of failure
-- local repository contains all data
+^ Advantages of a distributed version control system:
 
 ---
 
-# git goals
+# no internet required
 
-- fast
-- simple
-- *__decentralized__*
-- reliable
+^ - you can work on an airplane
+  - you can commit your work more often
+  - you can choose when to share your work
 
 ---
 
-# "since 2005"
+# no single point of failure
+
+---
+
+# local copy is full repository
+
+^ - operations can be much faster, because the network is almost never a factor
+
+^ That brings us to...
+
+---
+
+# git
+### [fit] *making you feel stupid since 2005*
+
+^ Let's start with 3 facts about git
+
+---
+
+## fact #1
+# git is fast
 
 ---
 
@@ -64,19 +90,12 @@
 
 ---
 
-# snapshots are fast
+# everything is local
 
 ---
 
-# local
-
----
-
-# local is fast
-
----
-
-# no internet required
+## fact #2
+# git is reliable
 
 ---
 
@@ -88,29 +107,99 @@
 
 ---
 
+## fact #3
+# git is simple
+
+---
+
+![what?!](media/what.gif)
+
+---
+
+
+# not easy,
+# but simple
+
+^ if you can understand the fundamentals of *how* git works,
+  - you get into fewer "situations"
+  - when you do get into a "situation", you can find a way out
+  - when you don't know how to do something, it's easier to figure out
+
+---
+
 # commits
 
 ---
 
-# anatomy of a commit
+# [fit] anatomy of a commit
 
-- repository content
-- commit message
-- parent(s)
-- author identity
-- author date
+### repository content
+### commit message
+### parent(s)
+### author identity
+### date
 
 ---
 
-# sha-1
+# [fit] anatomy of a commit
+
+### **repository content**
+### commit message
+### parent(s)
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### **commit message**
+### parent(s)
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### **parent(s)**
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### parent(s)
+### **author identity**
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### parent(s)
+### author identity
+### **date**
+
+---
+
+# sha1
 
 ## [fit] 7cf2a17f3345635d59e063cffddd23573b6e4a75
 
 ---
 
-# git...
+# git
 
-## it's all about the sha
+## everything is a sha1
 
 ---
 
@@ -119,16 +208,16 @@
 ---
 
 # [stage content](http://localhost:3000/ascii/stage-content)
-## (add to object store)
+## (save to repository)
 
 ---
 
-# Commit lifecycle
+# [fit] Commit lifecycle
 
-1. check out a branch
-- work (edit, save, repeat)
-- "stage" what you want to commit
-- make a commit
+### isolate
+### work
+### commit
+### share
 
 ^ when you "stage" your commit, this is when the data blobs are actually written to the repository. Committing just links the blobs into the history.
 
@@ -142,7 +231,7 @@
 
 # index
 
-data in the index has been added to the repository store, but is not yet incorportated into the commit history
+^ data in the index has been added to the repository store, but is not yet incorportated into the commit history
 
 ---
 
@@ -153,15 +242,21 @@ data in the index has been added to the repository store, but is not yet incorpo
 # branches
 ## are movable labels
 
+^ when you make a commit, git moves the "current branch" ahead to point at the new commit
+
 ---
 
 # branches
 ## are for humans
 
+^ git only cares about SHAs. branches are to help humans deal with SHAs
+
 ---
 
 # branches
 ## solve most problems
+
+^ when in doubt, make a branch to hold your place
 
 ---
 
@@ -212,4 +307,9 @@ data in the index has been added to the repository store, but is not yet incorpo
 # :grinning:
 
 ---
+
+# Resources
+
+- [Git for ages 4 and up (by Michael Schwern)](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+- [asciinema](https://asciinema.org)
 

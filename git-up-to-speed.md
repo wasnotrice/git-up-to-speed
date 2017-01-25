@@ -274,6 +274,11 @@
 ### commit
 ### share
 
+^ Authors:
+- Shannon Messenger
+- Catherynne Valente
+- Soman Chainani
+
 ---
 
 # [fit] Commit cycle
@@ -291,6 +296,8 @@
 ### work
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-2)
+
+^ fast-forward merge into master
 
 ---
 

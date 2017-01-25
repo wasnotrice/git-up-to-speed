@@ -205,7 +205,7 @@
 
 # [create repository](http://localhost:3939/ascii/create-repo)
 
-^ Commits
+^ Commands
 - ls
 - git init books
 - cd books
@@ -214,8 +214,34 @@
 
 ---
 
-# [stage content](http://localhost:3939/ascii/stage-content)
-## (save to repository)
+# [commit #1](http://localhost:3939/ascii/commit-1)
+
+^ Commands
+- git status
+- vim top-series.md
+    - # ya sci-fi/fantasy series
+    - 1. keeper of the lost cities
+    - 2. fairyland
+    - 3. the school for good and evil
+- git status
+- tree .git/objects
+- git add top-series.md
+- git status
+- tree .git/objects
+- git cat-file -t ***
+- git cat-file -p ***
+- git commit
+    - Top series list
+- git status
+- git log
+- tree ./git/objects
+- git cat-file -t [commit]
+- git cat-file -p [commit]
+
+
+
+
+
 
 ---
 

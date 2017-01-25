@@ -205,6 +205,13 @@
 
 # [create repository](http://localhost:3939/ascii/create-repo)
 
+^ Commits
+- ls
+- git init books
+- cd books
+- ls -a
+- git status
+
 ---
 
 # [stage content](http://localhost:3939/ascii/stage-content)

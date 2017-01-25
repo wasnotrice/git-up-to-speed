@@ -203,11 +203,11 @@
 
 ---
 
-# [create repository](http://localhost:3000/ascii/create-repo)
+# [create repository](http://localhost:3939/ascii/create-repo)
 
 ---
 
-# [stage content](http://localhost:3000/ascii/stage-content)
+# [stage content](http://localhost:3939/ascii/stage-content)
 ## (save to repository)
 
 ---

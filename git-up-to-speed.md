@@ -234,6 +234,8 @@
     - Top series list
 - git status
 - git log
+- git confit --get-regexp alias
+- git lg
 - tree ./git/objects
 - git cat-file -t [commit]
 - git cat-file -p [commit]

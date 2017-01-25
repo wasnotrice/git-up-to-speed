@@ -1406,10 +1406,180 @@
       4.6e-05,
       "\u001b[33mcommit 0376119f20cf160b9eca9e297e68e2852213b7cf\u001b[m\u001b[m\r\nAuthor: Eric Watson <wasnotrice@gmail.com>\u001b[m\r\nDate:   Wed Jan 25 11:53:22 2017 -0600\u001b[m\r\n\u001b[m\r\n    Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
     ],
+
     [
       0.001101,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
+    [
+      3.568262,
+      "g"
+    ],
+    [
+      0.129438,
+      "i"
+    ],
+    [
+      0.078339,
+      "t"
+    ],
+    [
+      0.095984,
+      " "
+    ],
+    [
+      0.257525,
+      "c"
+    ],
+    [
+      0.07781,
+      "o"
+    ],
+    [
+      0.080983,
+      "n"
+    ],
+    [
+      0.272011,
+      "f"
+    ],
+    [
+      0.086984,
+      "i"
+    ],
+    [
+      0.104013,
+      "g"
+    ],
+    [
+      0.351939,
+      " "
+    ],
+    [
+      0.200963,
+      "-"
+    ],
+    [
+      0.160258,
+      "-"
+    ],
+    [
+      0.14355,
+      "g"
+    ],
+    [
+      0.200012,
+      "e"
+    ],
+    [
+      0.088645,
+      "t"
+    ],
+    [
+      0.271365,
+      "-"
+    ],
+    [
+      0.088183,
+      "r"
+    ],
+    [
+      0.095919,
+      "e"
+    ],
+    [
+      0.255467,
+      "g"
+    ],
+    [
+      0.216515,
+      "e"
+    ],
+    [
+      0.400072,
+      "x"
+    ],
+    [
+      0.095867,
+      "p"
+    ],
+    [
+      0.199417,
+      " "
+    ],
+    [
+      0.224762,
+      "a"
+    ],
+    [
+      0.064669,
+      "l"
+    ],
+    [
+      0.190966,
+      "i"
+    ],
+    [
+      0.288273,
+      "a"
+    ],
+    [
+      0.088107,
+      "s"
+    ],
+    [
+      3.176123,
+      "\r\n"
+    ],
+    [
+      0.005249,
+      "alias.st status\r\nalias.co checkout\r\nalias.ci commit\r\nalias.br branch\r\nalias.df diff\r\nalias.lg log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit\r\nalias.dc diff --cached\r\nalias.last log -1 HEAD\r\n"
+    ],
+    [
+      0.000534,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      6.075541,
+      "g"
+    ],
+    [
+      0.118912,
+      "i"
+    ],
+    [
+      0.088029,
+      "t"
+    ],
+    [
+      0.143144,
+      " "
+    ],
+    [
+      0.216926,
+      "l"
+    ],
+    [
+      0.154192,
+      "g"
+    ],
+    [
+      0.941946,
+      "\r\n"
+    ],
+    [
+      0.012195,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      7.5e-05,
+      "* \u001b[31m0376119\u001b[m -\u001b[33m (HEAD, master)\u001b[m Add top series list \u001b[32m(13 minutes ago) \u001b[1;34m<Eric Watson>\u001b[m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.001166,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+
     [
       3.69924,
       "t"

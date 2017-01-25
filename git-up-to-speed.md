@@ -244,7 +244,7 @@
 
 ---
 
-# [fit] Commit cycle
+# [fit] work cycle #2
 
 ### isolate
 ### work
@@ -255,7 +255,7 @@
 
 ---
 
-# [fit] Commit cycle
+# [fit] work cycle #2
 
 ## [**isolate**](http://localhost:3939/ascii/isolate-2)
 ### work
@@ -267,7 +267,7 @@
 
 ---
 
-# [fit] Commit cycle
+# [fit] work cycle #2
 
 ### isolate
 ## [**work**](http://localhost:3939/ascii/work-2)
@@ -281,7 +281,7 @@
 
 ---
 
-# [fit] Commit cycle
+# [fit] work cycle #2
 
 ### isolate
 ### work
@@ -290,12 +290,58 @@
 
 ---
 
-# [fit] Commit cycle
+# [fit] work cycle #2
 
 ### isolate
 ### work
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-2)
+
+^ fast-forward merge into master
+
+---
+
+# [fit] work cycle #3
+
+## [**isolate**](http://localhost:3939/ascii/isolate-3)
+### work
+### commit
+### share
+
+^ When you create a branch, it's like adding a new label
+^ You have to check out the branch to make it "active"
+
+---
+
+# [fit] work cycle #3
+
+### isolate
+## [**work**](http://localhost:3939/ascii/work-3)
+### commit
+### share
+
+^ Authors:
+- Shannon Messenger
+- Catherynne Valente
+- Soman Chainani
+
+---
+
+# [fit] work cycle #3
+
+### isolate
+### work
+## [**commit**](http://localhost:3939/ascii/commit-3)
+### share
+
+---
+
+# [fit] work cycle #3
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/share-3)
 
 ^ fast-forward merge into master
 

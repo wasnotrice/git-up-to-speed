@@ -244,13 +244,50 @@
 
 ---
 
-# [fit] Commit lifecycle
+# [fit] Commit cycle
 
 ### isolate
 ### work
 ### commit
 ### share
 
+^ First, we isolate by creating a new branch
+
+---
+
+# [fit] Commit cycle
+
+## [**isolate**](http://localhost:3939/ascii/branch-1)
+### work
+### commit
+### share
+
+---
+
+# [fit] Commit cycle
+
+### isolate
+## [**work**](http://localhost:3939/ascii/work-2)
+### commit
+### share
+
+---
+
+# [fit] Commit cycle
+
+### isolate
+### work
+## [**commit**](http://localhost:3939/ascii/commit-2)
+### share
+
+---
+
+# [fit] Commit cycle
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/merge-2)
 
 ---
 

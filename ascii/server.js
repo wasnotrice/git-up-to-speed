@@ -3,10 +3,11 @@ const express = require('express')
 const app = express()
 
 const asciicastTemplate = (name) => {
+  let title = name.split('-').join(' ')
   let lines = [
     '<html>',
     '<head>',
-      '<title>Title</title>',
+      `<title>${title}</title>`,
       '<meta charset="utf-8">',
       '<link rel="stylesheet" type="text/css" href="/vendor/asciinema-player.css" />',
     '</head>',

@@ -257,7 +257,7 @@
 
 # [fit] Commit cycle
 
-## [**isolate**](http://localhost:3939/ascii/branch-1)
+## [**isolate**](http://localhost:3939/ascii/isolate-2)
 ### work
 ### commit
 ### share
@@ -287,7 +287,7 @@
 ### isolate
 ### work
 ### commit
-## [**share**](http://localhost:3939/ascii/merge-2)
+## [**share**](http://localhost:3939/ascii/share-2)
 
 ---
 

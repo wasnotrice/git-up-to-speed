@@ -348,7 +348,8 @@
 ### share
 
 ^ Someone else has been working, too
-^ First going back to master
+- first, going back to master
+- then checking out add-authors again
 
 ---
 
@@ -369,6 +370,15 @@
 ### work
 ## [**commit**](http://localhost:3939/ascii/commit-4)
 ### share
+
+---
+
+# [fit] work cycle #4
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/share-4)
 
 ---
 

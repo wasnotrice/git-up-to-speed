@@ -262,6 +262,9 @@
 ### commit
 ### share
 
+^ When you create a branch, it's like adding a new label
+^ You have to check out the branch to make it "active"
+
 ---
 
 # [fit] Commit cycle

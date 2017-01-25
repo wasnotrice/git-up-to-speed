@@ -321,9 +321,8 @@
 ### share
 
 ^ Authors:
-- Shannon Messenger
-- Catherynne Valente
-- Soman Chainani
+- wildwood -- Colin Meloy
+- wondla -- Tony DiTerlizzi
 
 ---
 

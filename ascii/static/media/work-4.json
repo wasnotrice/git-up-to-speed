@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 36.353905,
+  "command": "/bin/bash --rcfile /Users/eric/Dropbox/talks/git-up-to-speed/.ascii-bashrc",
+  "title": null,
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.032274,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      3.494041,
+      "g"
+    ],
+    [
+      0.112574,
+      "i"
+    ],
+    [
+      0.088725,
+      "t"
+    ],
+    [
+      0.095143,
+      " "
+    ],
+    [
+      0.735999,
+      "l"
+    ],
+    [
+      0.232126,
+      "o"
+    ],
+    [
+      0.119242,
+      "g"
+    ],
+    [
+      0.184797,
+      "g"
+    ],
+    [
+      0.103133,
+      "\r\n"
+    ],
+    [
+      0.025397,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000118,
+      "* \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.001567,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      0.589829,
+      "g"
+    ],
+    [
+      0.103616,
+      "i"
+    ],
+    [
+      0.111517,
+      "t"
+    ],
+    [
+      0.071838,
+      " "
+    ],
+    [
+      0.304003,
+      "s"
+    ],
+    [
+      0.088042,
+      "t"
+    ],
+    [
+      0.176915,
+      "a"
+    ],
+    [
+      0.086915,
+      "t"
+    ],
+    [
+      0.056929,
+      "u"
+    ],
+    [
+      0.503514,
+      "s"
+    ],
+    [
+      0.504838,
+      "\r\n"
+    ],
+    [
+      0.018654,
+      "On branch add-authors\r\n"
+    ],
+    [
+      3.5e-05,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.00103,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      2.740616,
+      "v"
+    ],
+    [
+      0.087404,
+      "i"
+    ],
+    [
+      0.055283,
+      "m"
+    ],
+    [
+      0.081074,
+      " "
+    ],
+    [
+      0.080008,
+      "t"
+    ],
+    [
+      0.111615,
+      "o"
+    ],
+    [
+      0.128058,
+      "p"
+    ],
+    [
+      0.112659,
+      "-series.md "
+    ],
+    [
+      0.654684,
+      "\r\n"
+    ],
+    [
+      0.044618,
+      "\u001b7\u001b[?47h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.003669,
+      "\u001b[1;25r\u001b[m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[25;1H\"top-series.md\""
+    ],
+    [
+      0.000569,
+      " 6L, 164C"
+    ],
+    [
+      0.030662,
+      "\u001b[>c"
+    ],
+    [
+      0.002361,
+      "\u001b[1;1H\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b[34m# ya sci-fi/fantasy series\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  2 \r\n  3 \u001b[m\u001b[37m\u001b[40m\u001b[31m1.\u001b[m\u001b[37m\u001b[40m keeper of the lost cities -- Shannon Messenger\r\n\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[31m2.\u001b[m\u001b[37m\u001b[40m fairyland -- Catherynne Valente\r\n\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[31m3.\u001b[m\u001b[37m\u001b[40m the school for good and evil -- Soman Chainani\r\n\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m~                                                                               \u001b[8;1H~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                                               \u001b[14;1H~                   "
+    ],
+    [
+      3.9e-05,
+      "                                                            \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[24;1H~                                                                               \u001b[m\u001b[37m\u001b[40m\u001b[25;63H1,1\u001b[11CAll\u001b[1;5H"
+    ],
+    [
+      3.023255,
+      "\u001b[25;63H2,0-1\u001b[2;5H"
+    ],
+    [
+      0.152068,
+      "\u001b[25;63H3,1  \u001b[3;5H"
+    ],
+    [
+      0.144053,
+      "\u001b[25;63H4\u001b[4;5H"
+    ],
+    [
+      0.471936,
+      "\u001b[25;63H3\u001b[3;5H"
+    ],
+    [
+      3.848535,
+      "\u001b[1C\u001b[7m\u001b[31m\u001b[411m.\u001b[m\u001b[37m\u001b[40m\u001b[7m\u001b[411m keeper of the lost cities -- Shannon Messenger\u001b[m\u001b[37m\u001b[40m\u001b[25;1H\u001b[1m\u001b[32m-- VISUAL LINE --\u001b[m\u001b[37m\u001b[40m\u001b[25;18H\u001b[K\u001b[25;63H3,1\u001b[11CAll\u001b[3;5H"
+    ],
+    [
+      0.48831,
+      "\u001b[7m\u001b[31m\u001b[411m1\u001b[4;6H.\u001b[m\u001b[37m\u001b[40m\u001b[7m\u001b[411m fairyland -- Catherynne Valente\u001b[m\u001b[37m\u001b[40m\u001b[25;63H4\u001b[4;5H"
+    ],
+    [
+      0.191991,
+      "\u001b[7m\u001b[31m\u001b[411m2\u001b[5;6H.\u001b[m\u001b[37m\u001b[40m\u001b[7m\u001b[411m the school for good and evil -- Soman Chainani\u001b[m\u001b[37m\u001b[40m\u001b[25;63H5\u001b[5;5H"
+    ],
+    [
+      1.007317,
+      "\u001b[25;1H3 lines changed\u001b[25;16H\u001b[K"
+    ],
+    [
+      0.001215,
+      "\u001b[3;5H\u001b[31m1.\u001b[m\u001b[37m\u001b[40m keeper of the lost cities -- shannon messenger\u001b[4;5H\u001b[31m2.\u001b[m\u001b[37m\u001b[40m fairyland -- catherynne valente\u001b[5;6H\u001b[31m.\u001b[m\u001b[37m\u001b[40m the school for good and evil -- soman chainani\u001b[25;63H3,1\u001b[11CAll\u001b[3;5H"
+    ],
+    [
+      1.054892,
+      "\u0007\u001b[25;1H\u001b[K\u001b[25;1H:"
+    ],
+    [
+      0.288129,
+      "w"
+    ],
+    [
+      0.144207,
+      "q"
+    ],
+    [
+      0.151694,
+      "\r"
+    ],
+    [
+      0.000139,
+      "\"top-series.md\""
+    ],
+    [
+      0.001846,
+      " 6L, 164C written"
+    ],
+    [
+      0.00202,
+      "\r\r\r\n\u001b[m\u001b[?1l\u001b>\u001b[2J\u001b[?47l\u001b8"
+    ],
+    [
+      0.002085,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      1.800863,
+      "g"
+    ],
+    [
+      0.143965,
+      "i"
+    ],
+    [
+      0.184964,
+      " "
+    ],
+    [
+      0.527044,
+      "\b\u001b[K"
+    ],
+    [
+      2.320352,
+      "t"
+    ],
+    [
+      0.136609,
+      " "
+    ],
+    [
+      0.440058,
+      "s"
+    ],
+    [
+      0.079988,
+      "t"
+    ],
+    [
+      0.26395,
+      "t"
+    ],
+    [
+      0.463583,
+      "\b\u001b[K"
+    ],
+    [
+      0.080545,
+      "a"
+    ],
+    [
+      0.071622,
+      "t"
+    ],
+    [
+      0.1514,
+      "u"
+    ],
+    [
+      0.192717,
+      "s"
+    ],
+    [
+      0.528268,
+      "\r\n"
+    ],
+    [
+      0.009327,
+      "On branch add-authors\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000296,
+      "\t\u001b[31mmodified:   top-series.md\u001b[m\r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      1.044613,
+      "g"
+    ],
+    [
+      0.104862,
+      "i"
+    ],
+    [
+      0.0719,
+      "t"
+    ],
+    [
+      0.096643,
+      " "
+    ],
+    [
+      0.143381,
+      "l"
+    ],
+    [
+      0.191925,
+      "o"
+    ],
+    [
+      0.096155,
+      "g"
+    ],
+    [
+      0.135914,
+      "g"
+    ],
+    [
+      0.320102,
+      "g"
+    ],
+    [
+      0.376087,
+      "\b\u001b[K"
+    ],
+    [
+      0.167974,
+      "\r\n"
+    ],
+    [
+      0.02501,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      4.4e-05,
+      "* \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.001579,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ]
+  ]
+}

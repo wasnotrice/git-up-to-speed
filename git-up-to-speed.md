@@ -342,17 +342,20 @@
 
 # [fit] work cycle #4
 
-## [**isolate**](http://localhost:3939/ascii/isolate-3)
+## [**isolate**](http://localhost:3939/ascii/isolate-4)
 ### work
 ### commit
 ### share
+
+^ Someone else has been working, too
+^ First going back to master
 
 ---
 
 # [fit] work cycle #4
 
 ### isolate
-## [**work**](http://localhost:3939/ascii/work-3)
+## [**work**](http://localhost:3939/ascii/work-4)
 ### commit
 ### share
 
@@ -364,7 +367,7 @@
 
 ### isolate
 ### work
-## [**commit**](http://localhost:3939/ascii/commit-3)
+## [**commit**](http://localhost:3939/ascii/commit-4)
 ### share
 
 ---

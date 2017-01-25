@@ -216,6 +216,8 @@
 
 # [commit #1](http://localhost:3939/ascii/commit-1)
 
+^ when you "stage" your commit, this is when the data blobs are actually written to the repository. Committing just links the blobs into the history.
+
 ^ Commands
 - git status
 - vim top-series.md
@@ -234,16 +236,11 @@
     - Top series list
 - git status
 - git log
-- git confit --get-regexp alias
-- git lg
+- git config --list | grep logg
+- git logg
 - tree ./git/objects
 - git cat-file -t [commit]
 - git cat-file -p [commit]
-
-
-
-
-
 
 ---
 
@@ -254,7 +251,6 @@
 ### commit
 ### share
 
-^ when you "stage" your commit, this is when the data blobs are actually written to the repository. Committing just links the blobs into the history.
 
 ---
 

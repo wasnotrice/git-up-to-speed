@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 0.016267,
+  "command": "/bin/bash --rcfile /Users/eric/Dropbox/talks/git-up-to-speed/.ascii-bashrc",
+  "title": null,
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.01537,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ]
+  ]
+}

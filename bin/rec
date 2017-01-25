@@ -4,4 +4,7 @@
 # Your asciicast will be recorded to that file in static/media, with
 # a .json extension
 
-asciinema rec --command '/bin/bash --rcfile .ascii-bashrc' ascii/static/media/"${1}".json
+project_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd .. && pwd)"
+asciinema rec \
+  --command "/bin/bash --rcfile ${project_dir}/.ascii-bashrc" \
+  "${project_dir}/ascii/static/media/${1}".json

@@ -335,14 +335,37 @@
 
 ---
 
-# [fit] work cycle #3
+# [fit] meanwhile
+## *on another branch...*
+
+---
+
+# [fit] work cycle #4
+
+## [**isolate**](http://localhost:3939/ascii/isolate-3)
+### work
+### commit
+### share
+
+---
+
+# [fit] work cycle #4
+
+### isolate
+## [**work**](http://localhost:3939/ascii/work-3)
+### commit
+### share
+
+^ downcase authors
+
+---
+
+# [fit] work cycle #4
 
 ### isolate
 ### work
-### commit
-## [**share**](http://localhost:3939/ascii/share-3)
-
-^ fast-forward merge into master
+## [**commit**](http://localhost:3939/ascii/commit-3)
+### share
 
 ---
 

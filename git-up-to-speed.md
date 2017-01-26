@@ -339,17 +339,7 @@
 ### share
 
 ^ commit: b41aca3
-
----
-
-# [fit] add more series
-
-### isolate
-### work
-### commit
-## [**share**](http://localhost:3939/ascii/share-3)
-
-^ fast-forward master to commit b41aca3
+^ Meanwhile...
 
 ---
 
@@ -379,6 +369,9 @@
 ### share
 
 ^ add cover images
+- keeper-of-the-lost-cities
+- fairyland
+- the-school-for-good-and-evil
 
 ---
 
@@ -399,6 +392,17 @@
 ### work
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-4)
+
+^ fast-forward master to commit b41aca3
+
+---
+
+# [fit] add more series
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/share-3)
 
 ^ Because there is no direct path from master to add-images, git will not fast-forward. Instead it creates a new commit (a "merge" commit).
 ^ commit: 

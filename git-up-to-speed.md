@@ -84,6 +84,8 @@
 ## fact #1
 # git is fast
 
+![](media/fast.gif)
+
 ---
 
 # snapshots, not diffs
@@ -96,6 +98,8 @@
 
 ## fact #2
 # git is reliable
+
+![](media/destroy.gif)
 
 ---
 
@@ -110,9 +114,7 @@
 ## fact #3
 # git is simple
 
----
-
-![what?!](media/what.gif)
+![](media/what.gif)
 
 ---
 

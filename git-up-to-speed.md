@@ -130,81 +130,7 @@
   - when you do get into a "situation", you can find a way out
   - when you don't know how to do something, it's easier to figure out
 
----
-
-# commits
-
----
-
-# [fit] anatomy of a commit
-
-### repository content
-### commit message
-### parent(s)
-### author identity
-### date
-
----
-
-# [fit] anatomy of a commit
-
-### **repository content**
-### commit message
-### parent(s)
-### author identity
-### date
-
----
-
-# [fit] anatomy of a commit
-
-### repository content
-### **commit message**
-### parent(s)
-### author identity
-### date
-
----
-
-# [fit] anatomy of a commit
-
-### repository content
-### commit message
-### **parent(s)**
-### author identity
-### date
-
----
-
-# [fit] anatomy of a commit
-
-### repository content
-### commit message
-### parent(s)
-### **author identity**
-### date
-
----
-
-# [fit] anatomy of a commit
-
-### repository content
-### commit message
-### parent(s)
-### author identity
-### **date**
-
----
-
-# sha1
-
-## [fit] 7cf2a17f3345635d59e063cffddd23573b6e4a75
-
----
-
-# git
-
-## everything is a sha1
+^ Let's start by creating a repository
 
 ---
 
@@ -216,6 +142,82 @@
 - cd books
 - ls -a
 - git status
+
+^ Now we can add a commit. But first, what does that mean?
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### parent(s)
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+## **repository content**
+### commit message
+### parent(s)
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+## **commit message**
+### parent(s)
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+## **parent(s)**
+### author identity
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### parent(s)
+## **author identity**
+### date
+
+---
+
+# [fit] anatomy of a commit
+
+### repository content
+### commit message
+### parent(s)
+### author identity
+## **date**
+
+---
+
+# sha
+
+## [fit] 7cf2a17f3345635d59e063cffddd23573b6e4a75
+
+---
+
+# git
+
+## [fit] everything is a sha
+
+^ That's the anatomy of a commit. Let's make one
 
 ---
 

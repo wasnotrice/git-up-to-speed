@@ -411,7 +411,15 @@
 ## [**share**](http://localhost:3939/ascii/share-3)
 
 ^ Because there is no direct path from master to add-images, git will not fast-forward. Instead it creates a new commit (a "merge" commit).
-^ commit: 
+^ commit: 2640dc4
+
+---
+
+# [fit] [add even more series](http://localhost:3939/ascii/commit-5)
+
+---
+
+# [fit] [add more images](http://localhost:3939/ascii/commit-6)
 
 ---
 
@@ -533,10 +541,10 @@
 - keeper of the lost cities
 - fairyland
 - wildwood
-- eragon
+- inheritance -- Christopher Paolini
 - school for good and evil
 - ranger's apprentice
-- miss peregrine's peculiar children
+- miss peregrine's peculiar children -- Ransom Riggs
 - the apothecary
 - wondla
 

@@ -354,7 +354,54 @@
 ---
 
 # [fit] meanwhile
-## [fit] *back on add-authors...*
+## [fit] *images would be nice...*
+
+---
+
+# [fit] add cover images
+
+## [**isolate**](http://localhost:3939/ascii/isolate-4)
+### work
+### commit
+### share
+
+^ It would be nice if we had images of these books
+- back to master
+- new branch: add-images
+
+---
+
+# [fit] add cover images
+
+### isolate
+## [**work**](http://localhost:3939/ascii/work-4)
+### commit
+### share
+
+^ add cover images
+
+---
+
+# [fit] add cover images
+
+### isolate
+### work
+## [**commit**](http://localhost:3939/ascii/commit-4)
+### share
+
+^ commit: 
+
+---
+
+# [fit] add cover images
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/share-4)
+
+^ Because there is no direct path from master to add-images, git will not fast-forward. Instead it creates a new commit (a "merge" commit).
+^ commit: 
 
 ---
 
@@ -368,8 +415,6 @@
 ^ We decided, for stylistic reasons, to use all lowercase
 - we go back to the add-authors branch
 
-^ TODO
-
 ---
 
 # [fit] downcase authors
@@ -379,8 +424,7 @@
 ### commit
 ### share
 
-^ downcase authors
-^ TODO
+^ downcase author names
 
 ---
 
@@ -391,8 +435,8 @@
 ## [**commit**](http://localhost:3939/ascii/commit-4)
 ### share
 
-^ first run commit 869ae01
-^ TODO
+^ commit: bc84098
+^ commit v1: 869ae01
 
 ---
 
@@ -403,7 +447,8 @@
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-4)
 
-^ TODO
+^ Because there is no direct path from master to add-authors, git will not fast-forward. Instead it creates a new commit (a "merge" commit).
+^ commit: 
 
 ---
 

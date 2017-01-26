@@ -243,6 +243,8 @@
 - git cat-file -t [commit]
 - git cat-file -p [commit]
 
+^ commit: 0376119
+
 ---
 
 # [fit] add authors
@@ -289,6 +291,8 @@
 ## [**commit**](http://localhost:3939/ascii/commit-2)
 ### share
 
+^ commit: 0c5366e
+
 ---
 
 # [fit] add authors
@@ -334,6 +338,8 @@
 ## [**commit**](http://localhost:3939/ascii/commit-3)
 ### share
 
+^ commit: b41aca3
+
 ---
 
 # [fit] add more series
@@ -342,6 +348,8 @@
 ### work
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-3)
+
+^ fast-forward master to commit b41aca3
 
 ---
 
@@ -357,9 +365,8 @@
 ### commit
 ### share
 
-^ Someone else has been working, too
-- first, going back to master
-- then checking out add-authors again
+^ We decided, for stylistic reasons, to use all lowercase
+- we go back to the add-authors branch
 
 ^ TODO
 

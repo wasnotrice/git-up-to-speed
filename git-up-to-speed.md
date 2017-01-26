@@ -120,6 +120,7 @@
 # not easy,
 # but simple
 
+^ TODO: what is the difference between easy and simple?
 ^ if you can understand the fundamentals of *how* git works,
   - you get into fewer "situations"
   - when you do get into a "situation", you can find a way out
@@ -214,7 +215,7 @@
 
 ---
 
-# [commit #1](http://localhost:3939/ascii/commit-1)
+# [add series](http://localhost:3939/ascii/commit-1)
 
 ^ when you "stage" your commit, this is when the data blobs are actually written to the repository. Committing just links the blobs into the history.
 
@@ -244,7 +245,7 @@
 
 ---
 
-# [fit] work cycle #2
+# [fit] add authors
 
 ### isolate
 ### work
@@ -255,7 +256,7 @@
 
 ---
 
-# [fit] work cycle #2
+# [fit] add authors
 
 ## [**isolate**](http://localhost:3939/ascii/isolate-2)
 ### work
@@ -267,7 +268,7 @@
 
 ---
 
-# [fit] work cycle #2
+# [fit] add authors
 
 ### isolate
 ## [**work**](http://localhost:3939/ascii/work-2)
@@ -281,7 +282,7 @@
 
 ---
 
-# [fit] work cycle #2
+# [fit] add authors
 
 ### isolate
 ### work
@@ -290,7 +291,7 @@
 
 ---
 
-# [fit] work cycle #2
+# [fit] add authors
 
 ### isolate
 ### work
@@ -301,7 +302,7 @@
 
 ---
 
-# [fit] work cycle #3
+# [fit] add more series
 
 ## [**isolate**](http://localhost:3939/ascii/isolate-3)
 ### work
@@ -313,7 +314,7 @@
 
 ---
 
-# [fit] work cycle #3
+# [fit] add more series
 
 ### isolate
 ## [**work**](http://localhost:3939/ascii/work-3)
@@ -326,7 +327,7 @@
 
 ---
 
-# [fit] work cycle #3
+# [fit] add more series
 
 ### isolate
 ### work
@@ -335,12 +336,21 @@
 
 ---
 
-# [fit] meanwhile
-## *on another branch...*
+# [fit] add more series
+
+### isolate
+### work
+### commit
+## [**share**](http://localhost:3939/ascii/share-3)
 
 ---
 
-# [fit] work cycle #4
+# [fit] meanwhile
+## [fit] *back on add-authors...*
+
+---
+
+# [fit] downcase authors
 
 ## [**isolate**](http://localhost:3939/ascii/isolate-4)
 ### work
@@ -351,9 +361,11 @@
 - first, going back to master
 - then checking out add-authors again
 
+^ TODO
+
 ---
 
-# [fit] work cycle #4
+# [fit] downcase authors
 
 ### isolate
 ## [**work**](http://localhost:3939/ascii/work-4)
@@ -361,24 +373,34 @@
 ### share
 
 ^ downcase authors
+^ TODO
 
 ---
 
-# [fit] work cycle #4
+# [fit] downcase authors
 
 ### isolate
 ### work
 ## [**commit**](http://localhost:3939/ascii/commit-4)
 ### share
 
+^ first run commit 869ae01
+^ TODO
+
 ---
 
-# [fit] work cycle #4
+# [fit] downcase authors
 
 ### isolate
 ### work
 ### commit
 ## [**share**](http://localhost:3939/ascii/share-4)
+
+^ TODO
+
+---
+
+# transition!
 
 ---
 
@@ -471,4 +493,5 @@
 
 - [Git for ages 4 and up (by Michael Schwern)](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 - [asciinema](https://asciinema.org)
+- Rich Hickey talk
 

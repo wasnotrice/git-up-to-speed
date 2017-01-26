@@ -445,6 +445,7 @@
 ## [fit] [add missing images](http://localhost:3939/ascii/commit-7)
 
 ^ Steps:
+- checkout add-series
 - rebase on master
 - add missing images
     - inheritance

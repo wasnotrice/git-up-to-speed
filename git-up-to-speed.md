@@ -382,7 +382,7 @@
 ## [**commit**](http://localhost:3939/ascii/commit-4)
 ### share
 
-^ commit: 
+^ commit: ed2819c
 
 ---
 
@@ -394,6 +394,12 @@
 ## [**share**](http://localhost:3939/ascii/share-4)
 
 ^ fast-forward master to commit b41aca3
+^ and now, we get around to sharing our new series
+
+---
+
+# [fit] back at the ranch
+## the series are restless...
 
 ---
 

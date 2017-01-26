@@ -2,7 +2,7 @@
   "version": 1,
   "width": 80,
   "height": 25,
-  "duration": 148.422643,
+  "duration": 20.995167,
   "command": "/bin/bash --rcfile /Users/eric/Dropbox/talks/git-up-to-speed/.ascii-bashrc",
   "title": null,
   "env": {
@@ -11,927 +11,391 @@
   },
   "stdout": [
     [
-      0.012943,
+      0.014001,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
     [
-      1.362213,
+      0.74842,
       "g"
     ],
     [
-      0.055685,
+      0.097702,
       "i"
     ],
     [
-      0.097235,
+      0.078706,
       "t"
     ],
     [
-      0.054443,
+      0.10431,
       " "
     ],
     [
-      0.098721,
+      0.081712,
       "l"
     ],
     [
-      0.205645,
+      0.237321,
       "o"
     ],
     [
-      0.098587,
+      0.13388,
       "g"
     ],
     [
-      0.173522,
+      0.15452,
       "g"
     ],
     [
-      0.090295,
+      0.12818,
       "\r\n"
     ],
     [
-      0.055173,
+      0.012175,
       "\u001b[?1h\u001b=\r"
     ],
     [
-      5.2e-05,
-      "* \u001b[33mbc84098\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Downcase author names\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
+      6.1e-05,
+      "* \u001b[33med2819c\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33madd-images\u001b[m\u001b[33m)\u001b[m Add cover images\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
     ],
     [
-      2.4e-05,
+      1.9e-05,
       "\r\u001b[K\u001b[?1l\u001b>"
     ],
     [
-      0.001193,
+      0.001197,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
     [
-      2.413071,
+      0.946841,
       "g"
     ],
     [
-      0.130564,
+      0.095861,
       "i"
     ],
     [
-      0.037629,
+      0.031861,
       "t"
     ],
     [
-      0.097658,
+      0.111816,
       " "
     ],
     [
-      0.638516,
+      0.26515,
+      "s"
+    ],
+    [
+      0.134385,
+      "t"
+    ],
+    [
+      0.19277,
+      "a"
+    ],
+    [
+      0.079746,
+      "t"
+    ],
+    [
+      0.096036,
+      "u"
+    ],
+    [
+      0.119251,
+      "s"
+    ],
+    [
+      0.178171,
+      "\r\n"
+    ],
+    [
+      0.00656,
+      "On branch add-images\r\n"
+    ],
+    [
+      5e-05,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000908,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      1.361104,
+      "g"
+    ],
+    [
+      0.365957,
+      "i"
+    ],
+    [
+      0.144036,
+      "t"
+    ],
+    [
+      0.106605,
+      " "
+    ],
+    [
+      0.125361,
       "c"
     ],
     [
-      0.087671,
+      0.167674,
       "h"
     ],
     [
-      0.079339,
+      0.127472,
       "e"
     ],
     [
-      0.248835,
+      0.195299,
       "c"
     ],
     [
-      0.079847,
+      0.200119,
       "k"
     ],
     [
-      0.224205,
+      0.244871,
       "o"
     ],
     [
-      0.090582,
+      0.080634,
       "u"
     ],
     [
-      0.045339,
+      0.168244,
       "t"
     ],
     [
-      0.138165,
+      0.089932,
       " "
     ],
     [
-      0.199322,
+      0.142084,
       "m"
     ],
     [
-      0.126666,
+      0.135665,
       "a"
     ],
     [
-      0.095767,
+      0.144062,
       "s"
     ],
     [
-      0.087477,
+      0.040001,
       "t"
     ],
     [
-      0.184871,
+      0.199927,
       "e"
     ],
     [
-      0.079448,
+      0.08027,
       "r"
     ],
     [
-      0.256457,
+      0.193083,
       "\r\n"
     ],
     [
-      0.009858,
+      0.007145,
       "Switched to branch 'master'\r\n"
     ],
     [
-      0.001263,
+      0.000901,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
     [
-      0.743047,
+      0.678087,
       "g"
     ],
     [
-      0.125918,
+      0.104956,
       "i"
     ],
     [
-      0.047128,
+      0.087757,
       "t"
     ],
     [
-      0.167704,
+      0.09624,
       " "
     ],
     [
-      0.14477,
-      "l"
-    ],
-    [
-      0.58355,
-      "o"
-    ],
-    [
-      0.160768,
-      "g"
-    ],
-    [
-      0.154657,
-      "g"
-    ],
-    [
-      0.205138,
-      "\r\n"
-    ],
-    [
-      0.061607,
-      "\u001b[?1h\u001b=\r"
-    ],
-    [
-      0.000108,
-      "* \u001b[33mbc84098\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Downcase author names\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
-    ],
-    [
-      0.001423,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      1.961185,
-      "g"
-    ],
-    [
-      0.106021,
-      "i"
-    ],
-    [
-      0.05392,
-      "t"
-    ],
-    [
-      0.135318,
-      " "
-    ],
-    [
-      0.631912,
+      0.231959,
       "m"
     ],
     [
-      0.088845,
+      0.159019,
       "e"
     ],
     [
-      0.080034,
+      0.099423,
       "r"
     ],
     [
-      0.287798,
+      0.396679,
       "g"
     ],
     [
-      2.696181,
+      0.481007,
       "e"
     ],
     [
-      0.088236,
+      0.175805,
       " "
     ],
     [
-      0.200045,
-      "a"
-    ],
-    [
-      0.143799,
-      "d"
-    ],
-    [
-      0.208145,
-      "d"
-    ],
-    [
-      0.137289,
-      "-"
-    ],
-    [
-      0.262582,
-      "a"
-    ],
-    [
-      0.121968,
-      "u"
-    ],
-    [
-      0.190187,
-      "t"
-    ],
-    [
-      0.095117,
-      "h"
-    ],
-    [
-      0.136759,
-      "o"
-    ],
-    [
-      0.104231,
-      "r"
-    ],
-    [
-      0.159127,
+      0.247771,
       "s"
     ],
     [
-      0.784408,
-      "\r\n"
-    ],
-    [
-      0.00899,
-      "Auto-merging top-series.md\r\nCONFLICT (content): Merge conflict in top-series.md\r\n"
-    ],
-    [
-      0.002165,
-      "Automatic merge failed; fix conflicts and then commit the result.\r\n"
-    ],
-    [
-      0.001,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      5.654578,
-      "g"
-    ],
-    [
-      0.112808,
-      "i"
-    ],
-    [
-      0.04765,
+      0.119576,
       "t"
     ],
     [
-      0.216177,
-      " "
+      0.159567,
+      "a"
     ],
     [
-      0.143648,
+      0.080075,
+      "t"
+    ],
+    [
+      0.464546,
+      "\b\u001b[K"
+    ],
+    [
+      0.127595,
+      "\b\u001b[K"
+    ],
+    [
+      0.145048,
+      "\b\u001b[K"
+    ],
+    [
+      0.143178,
+      "\b\u001b[K"
+    ],
+    [
+      0.64087,
+      "a"
+    ],
+    [
+      0.095982,
+      "d"
+    ],
+    [
+      0.287639,
+      "-"
+    ],
+    [
+      0.47212,
+      "\b\u001b[K"
+    ],
+    [
+      0.08185,
+      "d"
+    ],
+    [
+      0.934722,
+      "-"
+    ],
+    [
+      0.687567,
+      "i"
+    ],
+    [
+      0.072032,
       "m"
     ],
     [
-      0.072754,
-      "e"
-    ],
-    [
-      0.106519,
-      "r"
-    ],
-    [
-      0.220463,
-      "g"
-    ],
-    [
-      0.192902,
-      "e"
-    ],
-    [
-      0.522358,
-      "t"
-    ],
-    [
-      0.037391,
-      "o"
-    ],
-    [
-      0.144604,
-      "o"
-    ],
-    [
-      0.167104,
-      "l"
-    ],
-    [
-      0.312657,
-      "\r\n"
-    ],
-    [
-      0.066113,
-      "\r\nThis message is displayed because 'merge.tool' is not configured.\r\nSee 'git mergetool --tool-help' or 'git help config' for more details.\r\n'git mergetool' will now attempt to use one of the following tools:\r\ntortoisemerge vimdiff emerge\r\n"
-    ],
-    [
-      0.045965,
-      "Merging:\r\ntop-series.md\r\n"
-    ],
-    [
-      3.2e-05,
-      "\r\n"
-    ],
-    [
-      0.122146,
-      "Normal merge conflict for 'top-series.md':\r\n"
-    ],
-    [
-      0.00042,
-      "  {local}: modified file\r\n  {remote}: "
-    ],
-    [
-      3.8e-05,
-      "modified file\r\n"
-    ],
-    [
-      0.000285,
-      "Hit return to start merge resolution tool (vimdiff): "
-    ],
-    [
-      1.94876,
-      "\r\n"
-    ],
-    [
-      0.044179,
-      "4 files to edit\r\n"
-    ],
-    [
-      0.07344,
-      "\u001b7\u001b[?47h\u001b[?1h\u001b="
-    ],
-    [
-      8.3e-05,
-      "\u001b[2;1H▽\u001b[6n"
-    ],
-    [
-      0.000241,
-      "\u001b[2;1H  \u001b[1;1H"
-    ],
-    [
-      0.002935,
-      "\u001b[1;25r\u001b[m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[25;1H\"top-series.md\""
-    ],
-    [
-      3.2e-05,
-      " 14L, 396C"
-    ],
-    [
-      0.017656,
-      "\r\"./top-series_LOCAL_38280.md\""
-    ],
-    [
-      7.3e-05,
-      " 8L, 220C"
-    ],
-    [
-      0.058758,
-      "\u001b[25;15HBASE_38280.md\" \u001b[25;31H\u001b[K"
-    ],
-    [
-      0.000527,
-      "\u001b[25;30H6L, 164C"
-    ],
-    [
-      0.075462,
-      "\u001b[25;15HREMOTE_38280.md\" \u001b[25;32H\u001b[K"
-    ],
-    [
-      4.5e-05,
-      "\u001b[25;32H6L, 164C"
-    ],
-    [
-      0.13066,
-      "\u001b[>c"
-    ],
-    [
-      0.002661,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[1;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b[34m# ya sci-fi/fantasy \u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m\u001b[20C\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony Di\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m5. wildwood -- Colin\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411"
-    ],
-    [
-      5.3e-05,
-      "m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m<AL_38280.md 1,1       Top \u001b[m\u001b[37m\u001b[40m\u001b[1;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b[34m# ya sci-fi/fantasy \u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[2;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m\u001b[20C\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[3;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[4;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[5;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 "
-    ],
-    [
-      0.001628,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[6;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[7;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[8;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[9;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[10;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[11;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[311m\u001b[411m|\u001b[m\u001b[37m\u001b[40m\u001b[12;28H\u001b[38m\u001b[410m<SE_38280.md 1,1       Top \u001b[m\u001b[37m\u001b[40m\u001b[1;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b"
-    ],
-    [
-      7.8e-05,
-      "[34m# ya sci-fi/fantasy \u001b[m\u001b[37m\u001b[40m\u001b[2;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m\u001b[3;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[4;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- cath\u001b[m\u001b[37m\u001b[40m\u001b[5;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[6;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;55H\u001b[1m\u001b[36m"
-    ],
-    [
-      0.002467,
-      "\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;55H\u001b[38m\u001b[410m<TE_38280.md 1,1       Top\u001b[m\u001b[37m\u001b[40m\u001b[13;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b[34m# ya sci-fi/fantasy series\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m<<<<<<< HEAD\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                                                              \u001b[m\u001b[37m\u001b[40m\u001b[16;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the lost cities -- Shannon Messenger\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                         \u001b[m\u001b[37m\u001b[40m\u001b[17;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Catherynne Valente\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                                        \u001b[m\u001b[37m\u001b[40m\u001b[18;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for good and evil -- Soman Chainan\u001b[m\u001b[37m"
-    ],
-    [
-      4.2e-05,
-      "\u001b[40m\u001b[38m\u001b[410mi                         \u001b[m\u001b[37m\u001b[40m\u001b[19;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony DiTerlizzi\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                                              \u001b[m\u001b[37m\u001b[40m\u001b[20;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  8 \u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m5. wildwood -- Colin Meloy                                                \u001b[m\u001b[37m\u001b[40m\u001b[21;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  9 \u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m=======                                                                   \u001b[m\u001b[37m\u001b[40m\u001b[22;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m 10 \u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m1. keeper of the lost cities -- shannon messenger                         \u001b[m\u001b[37m\u001b[40m\u001b[23;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m 11 \u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m2. fairyland -- catherynne valente                                        \u001b[m\u001b[37m\u001b[40m\u001b[24;1H\u001b[312m\u001b[411mtop-series.md                                                 1,1            Top\u001b[13;7H"
-    ],
-    [
-      8.453956,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m2,0-1\u001b[22C2,0-1\u001b[22C2,0-1\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m2,0-1\u001b[14;7H"
-    ],
-    [
-      0.194952,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m3,1  \u001b[22C3,1  \u001b[22C3,1  \u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m3,1  \u001b[15;7H"
-    ],
-    [
-      0.499439,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m4\u001b[26C4\u001b[26C4\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m4\u001b[16;7H"
-    ],
-    [
-      0.083697,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m5\u001b[26C5\u001b[26C5\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m5\u001b[17;7H"
-    ],
-    [
-      0.083123,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m6\u001b[26C6,0-1\u001b[22C6,0-1\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m6\u001b[18;7H"
-    ],
-    [
-      0.083682,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m7\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m7\u001b[19;7H"
-    ],
-    [
-      0.084171,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[12;14H\u001b[38m\u001b[410m8,0-1\u001b[m\u001b[37m\u001b[40m\u001b[24;63H\u001b[312m\u001b[411m8\u001b[20;7H"
-    ],
-    [
-      3.955174,
-      "\u001b[24;63H9\u001b[21;7H"
-    ],
-    [
-      0.162258,
-      "\u001b[24;63H10,1\u001b[22;7H"
-    ],
-    [
-      0.173548,
-      "\u001b[24;64H1\u001b[23;7H"
-    ],
-    [
-      0.177597,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[1;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m                    \r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony Di\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m5. wildwood -- Colin\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m----"
-    ],
-    [
-      8.8e-05,
-      "----------------\u001b[m\u001b[37m\u001b[40m\r\n                          \r\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;24H\u001b[38m\u001b[410m50%\u001b[m\u001b[37m\u001b[40m\u001b[1;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m                    \u001b[2;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[3;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\u001b[4;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[5;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[6;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m"
-    ],
-    [
-      0.00069,
-      "\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;28H                          \u001b[11;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;51H\u001b[38m\u001b[410m50%\u001b[m\u001b[37m\u001b[40m\u001b[1;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  2 \u001b[m\u001b[37m\u001b[40m                    \u001b[2;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[3;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- cath\u001b[m\u001b[37m\u001b[40m\u001b[4;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[5;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[6;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b["
-    ],
-    [
-      7.8e-05,
-      "410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;55H                          \u001b[11;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;78H\u001b[38m\u001b[410m50%\u001b[13;23r\u001b[m\u001b[37m\u001b[40m\u001b[23;1H\r\n\u001b[1;25r\u001b[23;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m 12 \u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m3. the school for good and evil -- soman chainani                         \u001b[m\u001b[37m\u001b[40m\u001b[24;64H\u001b[312m\u001b[411m2\u001b[13C33%\u001b[23;7H"
-    ],
-    [
-      0.165742,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[1;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony Di\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m5. wildwood -- Colin\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b"
-    ],
-    [
-      5.7e-05,
-      "[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n                          \r\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;24H\u001b[38m\u001b[410m66\u001b[m\u001b[37m\u001b[40m\u001b[1;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[2;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\u001b[3;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[4;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[5;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[6;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;28H\u001b[1m"
-    ],
-    [
-      0.000927,
-      "\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;28H                          \u001b[11;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;51H\u001b[38m\u001b[410m66\u001b[m\u001b[37m\u001b[40m\u001b[1;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  3 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m1. keeper of the los\u001b[m\u001b[37m\u001b[40m\u001b[2;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- cath\u001b[m\u001b[37m\u001b[40m\u001b[3;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[4;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[5;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m-----"
-    ],
-    [
-      9.3e-05,
-      "---------------\u001b[m\u001b[37m\u001b[40m\u001b[6;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;55H                          \u001b[11;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[12;78H\u001b[38m\u001b[410m66\u001b[13;5H3\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m<<<<<<\u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[30m\u001b[48m<\u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m HEAD\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                                                              \u001b[14;5H4\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m1. keeper of the lost cities -- Shannon Messenger"
-    ],
-    [
-      0.001661,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[15;5H\u001b[38m\u001b[410m5\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Catherynne Valente\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                \u001b[16;5H6\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m3. the school for good and evil -- Soman Chainan\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410mi\u001b[17;5H7\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony DiTerlizzi\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                     \u001b[18;5H8\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m5. wildwood -- Colin Meloy                                                \u001b[m\u001b[37m\u001b[40m\u001b[19;5H\u001b[38m\u001b[410m9\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m=======                   \u001b[m\u001b[37m\u001b[40m\u001b[20;4H\u001b[38m\u001b[410m10\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m1. keeper of the lost cities -- shannon messenger\u001b[m\u001b[37m\u001b[40m\u001b[21;5H\u001b[38m\u001b[410m1\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m2. fairyland -- catherynne valente               \u001b[m\u001b[37m\u001b[40m\u001b[22;5H\u001b[38m\u001b[410m2\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m3. the school for good and evil -- soman chainani\u001b[m\u001b[37m\u001b[40m\u001b[23;5H\u001b[38m\u001b[410m3\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[30m\u001b[48m>\u001b[m\u001b[37m\u001b[40m\u001b[32m\u001b[410m>>>>>> add-authors                              \u001b[m\u001b"
-    ],
-    [
-      8.9e-05,
-      "[37m\u001b[40m\u001b[24;64H\u001b[312m\u001b[411m3\u001b[13C66\u001b[23;7H"
-    ],
-    [
-      0.156002,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[1;1H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony Di\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m5. wildwood -- Colin\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m"
-    ],
-    [
-      3.7e-05,
-      "\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\r\n                          \r\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  8 \u001b[12;24HBot\u001b[m\u001b[37m\u001b[40m\u001b[1;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Cath\u001b[m\u001b[37m\u001b[40m\u001b[2;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[3;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[4;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[5;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[6;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------"
-    ],
-    [
-      0.001257,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[9;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;28H                          \u001b[11;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[12;51HBot\u001b[m\u001b[37m\u001b[40m\u001b[1;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m2. fairyland -- cath\u001b[m\u001b[37m\u001b[40m\u001b[2;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[3;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[4;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[5;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[6;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[7;55H\u001b[1m\u001b[36m\u001b[4"
-    ],
-    [
-      8.6e-05,
-      "10m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[8;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[9;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[10;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m    \u001b[m\u001b[37m\u001b[40m\u001b[31m\u001b[410m--------------------\u001b[m\u001b[37m\u001b[40m\u001b[11;55H                          \u001b[11;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m  6 \u001b[12;78HBot\u001b[13;5H4\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m1. keeper of the lost cities -- Shannon Messenger\u001b[m\u001b[37m\u001b[40m\u001b[14;5H\u001b[38m\u001b[410m5\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m2. fairyland -- Catherynne Valente\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                \u001b[15;5H6\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m3. the school for good and evil -- Soman Chainan\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410mi\u001b[16;5H7\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[1m\u001b[34m\u001b[410m4. wondla -- Tony DiTerlizzi\u001b[m\u001b[37m\u001b[40m\u001b[38m\u001b[410m                     \u001b[17;5H8\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m5. wildwood -- Col"
-    ],
-    [
-      0.000989,
-      "in Meloy                                                \u001b[m\u001b[37m\u001b[40m\u001b[18;5H\u001b[38m\u001b[410m9\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m=======                   \u001b[m\u001b[37m\u001b[40m\u001b[19;4H\u001b[38m\u001b[410m10\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m1. keeper of the lost cities -- shannon messenger\u001b[m\u001b[37m\u001b[40m\u001b[20;5H\u001b[38m\u001b[410m1\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m2. fairyland -- catherynne valente               \u001b[m\u001b[37m\u001b[40m\u001b[21;5H\u001b[38m\u001b[410m2\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m3. the school for good and evil -- soman chainani\u001b[m\u001b[37m\u001b[40m\u001b[22;5H\u001b[38m\u001b[410m3\u001b[m\u001b[37m\u001b[40m\u001b[1C\u001b[32m\u001b[410m>>>>>>> add-authors                              \u001b[m\u001b[37m\u001b[40m\u001b[23;5H\u001b[38m\u001b[410m4\u001b[m\u001b[37m\u001b[40m\u001b[23;7H\u001b[K\u001b[24;64H\u001b[312m\u001b[411m4,0-1\u001b[9CBot\u001b[23;7H"
-    ],
-    [
-      0.166258,
-      "\u0007"
-    ],
-    [
-      0.16833,
-      "\u0007"
-    ],
-    [
-      0.206208,
-      "\u0007"
-    ],
-    [
-      85.198637,
-      "\r\n\r\n\u001b[m\u001b[37m\u001b[40m:"
-    ],
-    [
-      1.423859,
-      "q"
-    ],
-    [
-      0.663131,
-      "!"
-    ],
-    [
-      0.264344,
-      "\r"
-    ],
-    [
-      0.03882,
-      "\u001b[1;7H\u001b[38m\u001b[410m2. fairyland -- \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410mCath\u001b[m\u001b[37m\u001b[40m\u001b[2;7H\u001b[38m\u001b[410m3. the school for go\u001b[m\u001b[37m\u001b[40m\u001b[3;7H\u001b[32m\u001b[410m4. wondla -- Tony Di\u001b[4;7H5. wildwood -- Colin\u001b[m\u001b[37m\u001b[40m\u001b[5;5H\u001b[38m\u001b[410m8\u001b[m\u001b[37m\u001b[40m\u001b[1C                    \u001b[12;27H\u001b[311m\u001b[411m|\u001b[13;27H|\u001b[14;27H|\u001b[15;27H|\u001b[16;27H|\u001b[17;27H|\u001b[18;27H|\u001b[19;27H|\u001b[20;27H|\u001b[21;27H|\u001b[22;27H|\u001b[23;27H|\u001b[m\u001b[37m\u001b[40m\u001b[12;1H\u001b[1m\u001b[36m\u001b[410m  \r\n \u001b[m\u001b[37m\u001b[40m\u001b[6;3H\u001b[38m~                       \u001b[7;3H~                       \u001b[8;3H~                       \u001b[9;3H~                       \u001b[10;3H~                       \u001b[11;3H~                       \u001b[12;3H~                       \u001b[13;3H~                       \u001b[14;3H~                       \u001b[15;3H~                       \u001b[16;3H~                       \u001b[17;3H~                       \u001b[18;3H~                       \u001b[19;3H~                       \u001b[20;3H~                       \u001b[21;3H~                       \u001b[22;3H~                       \u001b[23;3H~                       \u001b[m\u001b[37m\u001b[40m\r\n\u001b[312m\u001b[411m<AL_38"
-    ],
-    [
-      9.7e-05,
-      "280.md 8,0-1     Bot\u001b[m\u001b[37m\u001b[40m\u001b[1;34H\u001b[38m\u001b[410m2. fairyland -- \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410mCath\u001b[m\u001b[37m\u001b[40m\u001b[2;34H\u001b[38m\u001b[410m3. the school for go\u001b[5;32H6\u001b[m\u001b[37m\u001b[40m\u001b[1C                    \u001b[12;54H\u001b[311m\u001b[411m|\u001b[13;54H|\u001b[14;54H|\u001b[15;54H|\u001b[16;54H|\u001b[17;54H|\u001b[18;54H|\u001b[19;54H|\u001b[20;54H|\u001b[21;54H|\u001b[22;54H|\u001b[23;54H|\u001b[m\u001b[37m\u001b[40m\u001b[12;28H\u001b[1m\u001b[36m\u001b[410m  \u001b[13;28H  \u001b[14;28H  \u001b[15;28H  \u001b[16;28H  \u001b[17;28H  \u001b[18;28H  \u001b[19;28H  \u001b[20;28H  \u001b[21;28H  \u001b[22;28H  \u001b[23;28H  \u001b[m\u001b[37m\u001b[40m\u001b[6;30H\u001b[38m~                       \u001b[7;30H~                       \u001b[8;30H~                       \u001b[9;30H~                       \u001b[10;30H~                       \u001b[11;30H~                       \u001b[12;30H~                       \u001b[13;30H~                       \u001b[14;30H~                       \u001b[15;30H~                       \u001b[16;30H~                       \u001b[17;30H~                       \u001b[18;30H~                       \u001b[19;30H~                       \u001b[20;30H~                       \u001b[21;30H~                       \u001b[22;30H~                       "
-    ],
-    [
-      0.00063,
-      "\u001b[23;30H~                       \u001b[m\u001b[37m\u001b[40m\u001b[24;28H\u001b[38m\u001b[410m<SE_38280.md 6,0-1     Bot \u001b[1;61H2. fairyland -- \u001b[m\u001b[37m\u001b[40m\u001b[1m\u001b[34m\u001b[410mcath\u001b[m\u001b[37m\u001b[40m\u001b[2;61H\u001b[38m\u001b[410m3. the school for go\u001b[5;59H6\u001b[m\u001b[37m\u001b[40m\u001b[5;61H\u001b[K\u001b[12;55H\u001b[1m\u001b[36m\u001b[410m  \u001b[13;55H  \u001b[14;55H  \u001b[15;55H  \u001b[16;55H  \u001b[17;55H  \u001b[18;55H  \u001b[19;55H  \u001b[20;55H  \u001b[21;55H  \u001b[22;55H  \u001b[23;55H  \u001b[m\u001b[37m\u001b[40m\u001b[6;57H\u001b[38m~                       \u001b[7;57H~                       \u001b[8;57H~                       \u001b[9;57H~                       \u001b[10;57H~                       \u001b[11;57H~                       \u001b[12;57H~                       \u001b[13;57H~                       \u001b[14;57H~                       \u001b[15;57H~                       \u001b[16;57H~                       \u001b[17;57H~                       \u001b[18;57H~                       \u001b[19;57H~                       \u001b[20;57H~                       \u001b[21;57H~                       \u001b[22;57H~                       \u001b[23;57H~                       \u001b[m\u001b[37m\u001b[40m\u001b[24;55H\u001b[38m\u001b[410m<TE_38280.md 6,0-1     Bot\u001b[5;7H"
-    ],
-    [
-      1.024706,
-      "\u001b[m\u001b[37m\u001b[40m\u001b[25;1H\u001b[K\u001b[25;1H:"
-    ],
-    [
-      0.711599,
-      "Q"
-    ],
-    [
-      0.792279,
-      "\u001b[25;2H\u001b[K\u001b[25;2H"
-    ],
-    [
-      0.126985,
+      0.025607,
       "a"
     ],
     [
-      0.632585,
-      "\u001b[25;2H\u001b[K\u001b[25;2H"
-    ],
-    [
-      0.11396,
-      "q"
-    ],
-    [
-      0.166907,
-      "a"
-    ],
-    [
-      0.111321,
-      "\r"
-    ],
-    [
-      0.002774,
-      "\u001b[25;1H\u001b[K\u001b[25;1H\u001b[?1l\u001b>\u001b[2J\u001b[?47l\u001b8"
-    ],
-    [
-      0.001684,
-      "top-series.md seems unchanged.\r\nWas the merge successful? [y/n] "
-    ],
-    [
-      1.003886,
-      "n"
-    ],
-    [
-      0.135738,
-      "\r\n"
-    ],
-    [
-      0.000311,
-      "merge of top-series.md failed\r\n"
-    ],
-    [
-      0.008557,
-      "Continue merging other unresolved paths (y/n) ? "
-    ],
-    [
-      0.735779,
-      "n"
-    ],
-    [
-      0.118816,
-      "\r\n"
-    ],
-    [
-      0.001836,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      0.37476,
+      0.070566,
       "g"
     ],
     [
-      0.094808,
-      "i"
-    ],
-    [
-      0.064386,
-      "t"
-    ],
-    [
-      0.097568,
-      " "
-    ],
-    [
-      0.199203,
+      0.161569,
       "e"
     ],
     [
-      0.096534,
-      "r"
-    ],
-    [
-      0.35873,
-      "\b\u001b[K"
-    ],
-    [
-      0.129032,
-      "\b\u001b[K"
-    ],
-    [
-      0.01693,
-      "r"
-    ],
-    [
-      0.033166,
-      "e"
-    ],
-    [
-      0.215356,
+      0.094095,
       "s"
     ],
     [
-      0.094093,
-      "e"
-    ],
-    [
-      0.096131,
-      "t"
-    ],
-    [
-      0.583137,
-      " "
-    ],
-    [
-      0.328697,
-      "-"
-    ],
-    [
-      0.175448,
-      "-"
-    ],
-    [
-      0.074029,
-      "h"
-    ],
-    [
-      0.110801,
-      "a"
-    ],
-    [
-      0.040873,
-      "r"
-    ],
-    [
-      0.15014,
-      "d"
-    ],
-    [
-      0.144962,
-      " "
-    ],
-    [
-      0.207927,
-      "H"
-    ],
-    [
-      0.047954,
-      "E"
-    ],
-    [
-      0.191981,
-      "A"
-    ],
-    [
-      0.208058,
-      "D"
-    ],
-    [
-      0.330735,
+      0.562285,
       "\r\n"
     ],
     [
-      0.008737,
-      "HEAD is now at b41aca3 Add wondla and wildwood\r\n"
+      0.008034,
+      "Updating 0c5366e..ed2819c\r\n"
     ],
     [
-      0.001085,
+      0.001707,
+      "Fast-forward\r\n"
+    ],
+    [
+      0.011187,
+      " images/fairyland.jpg                    | Bin \u001b[31m0\u001b[m -> \u001b[32m26754\u001b[m bytes\r\n images/keeper-of-the-lost-cities.jpg    | Bin \u001b[31m0\u001b[m -> \u001b[32m86813\u001b[m bytes\r\n images/the-school-for-good-and-evil.jpg | Bin \u001b[31m0\u001b[m -> \u001b[32m53825\u001b[m bytes\r\n 3 files changed, 0 insertions(+), 0 deletions(-)\r\n create mode 100644 images/fairyland.jpg\r\n create mode 100644 images/keeper-of-the-lost-cities.jpg\r\n create mode 100644 images/the-school-for-good-and-evil.jpg\r\n"
+    ],
+    [
+      0.000701,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
     [
-      0.699635,
-      "i"
-    ],
-    [
-      0.375072,
-      "\b\u001b[K"
-    ],
-    [
-      0.288086,
+      1.816171,
       "g"
     ],
     [
-      0.096521,
+      0.121362,
       "i"
     ],
     [
-      0.055365,
+      0.062901,
       "t"
     ],
     [
-      0.089024,
+      0.144058,
       " "
     ],
     [
-      0.088166,
-      "s"
-    ],
-    [
-      0.055797,
-      "t"
-    ],
-    [
-      0.104126,
-      "\r\n"
-    ],
-    [
-      0.009102,
-      "On branch master\r\nnothing to commit, working directory clean\r\n"
-    ],
-    [
-      0.000638,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      0.82215,
-      "g"
-    ],
-    [
-      0.063748,
-      "i"
-    ],
-    [
-      0.145714,
-      "t"
-    ],
-    [
-      0.005793,
-      " "
-    ],
-    [
-      0.112848,
+      0.63181,
       "l"
     ],
     [
-      0.166948,
+      0.24831,
       "o"
     ],
     [
-      0.120147,
+      0.098284,
       "g"
     ],
     [
-      0.12797,
+      0.172628,
+      "g"
+    ],
+    [
+      1.103956,
       "\r\n"
     ],
     [
-      0.008888,
+      0.013369,
       "\u001b[?1h\u001b=\r"
     ],
     [
-      3.1e-05,
-      "\u001b[33mcommit b41aca339e90920929bc7af4ae2536367340df0a\u001b[m\u001b[m\r\nAuthor: Eric Watson <wasnotrice@gmail.com>\u001b[m\r\nDate:   Wed Jan 25 14:00:32 2017 -0600\u001b[m\r\n\u001b[m\r\n    Add wondla and wildwood\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 0c5366ee27b6553d25a7cadc1e849b60186153da\u001b[m\u001b[m\r\nAuthor: Eric Watson <wasnotrice@gmail.com>\u001b[m\r\nDate:   Wed Jan 25 13:36:07 2017 -0600\u001b[m\r\n\u001b[m\r\n    Add authors for top 3 series\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 0376119f20cf160b9eca9e297e68e2852213b7cf\u001b[m\u001b[m\r\nAuthor: Eric Watson <wasnotrice@gmail.com>\u001b[m\r\nDate:   Wed Jan 25 11:53:22 2017 -0600\u001b[m\r\n\u001b[m\r\n    Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+      4.7e-05,
+      "* \u001b[33med2819c\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-images\u001b[m\u001b[33m)\u001b[m Add cover images\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
     ],
     [
-      0.000917,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      0.111076,
-      "\r\n"
-    ],
-    [
-      0.000173,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      1.03175,
-      "g"
-    ],
-    [
-      0.168085,
-      "i"
-    ],
-    [
-      0.047582,
-      "t"
-    ],
-    [
-      0.120274,
-      " "
-    ],
-    [
-      1.00744,
-      "l"
-    ],
-    [
-      0.200774,
-      "o"
-    ],
-    [
-      0.126899,
-      "g"
-    ],
-    [
-      0.160171,
-      "g"
-    ],
-    [
-      0.135906,
-      "\r\n"
-    ],
-    [
-      0.011703,
-      "\u001b[?1h\u001b=\r"
-    ],
-    [
-      5.1e-05,
-      "* \u001b[33mbc84098\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Downcase author names\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
-    ],
-    [
-      2.2e-05,
-      "\r\u001b[K\u001b[?1l\u001b>"
-    ],
-    [
-      0.001369,
+      0.001482,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ]
   ]

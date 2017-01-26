@@ -449,9 +449,12 @@
 - add missing images
     - inheritance
     - miss-peregrine
+    - the-apothecary
+- stage only 2
+    - inheritance
+    - miss-peregrine
 - commit
 - merge --no-ff
-
 
 ---
 

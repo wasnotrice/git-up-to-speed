@@ -421,7 +421,40 @@
 
 # [fit] [add more images](http://localhost:3939/ascii/commit-6)
 
+^ Steps:
+- Checkout master
+- Delete add-images
+- Create new add-images
+- Checkout add-images
+- Copy files
+  - wildwood
+  - wondla
+- Add
+- Commit
+
 ---
+
+# [fit] meanwhile
+## [fit] this is getting messy...
+
+^ Let's add images and books together
+
+---
+
+# rebase!
+## [fit] [add missing images](http://localhost:3939/ascii/commit-7)
+
+^ Steps:
+- rebase on master
+- add missing images
+    - inheritance
+    - miss-peregrine
+- commit
+- merge --no-ff
+
+
+---
+
 
 # [fit] downcase authors
 

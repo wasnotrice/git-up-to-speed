@@ -120,7 +120,9 @@
 # not easy,
 # but simple
 
-^ TODO: what is the difference between easy and simple?
+^ easy: near, close to hand
+^ simple: "sim-" + "-plex" (one braid) (as opposed to "complex")
+    - lack of interweaving
 ^ if you can understand the fundamentals of *how* git works,
   - you get into fewer "situations"
   - when you do get into a "situation", you can find a way out
@@ -482,132 +484,23 @@
 
 ---
 
-
-
-# [fit] downcase authors
-
-## [**isolate**](http://localhost:3939/ascii/isolate-4)
-### work
-### commit
-### share
-
-^ We decided, for stylistic reasons, to use all lowercase
-- we go back to the add-authors branch
+# takeaways
 
 ---
 
-# [fit] downcase authors
-
-### isolate
-## [**work**](http://localhost:3939/ascii/work-4)
-### commit
-### share
-
-^ downcase author names
+# git is simple
 
 ---
 
-# [fit] downcase authors
-
-### isolate
-### work
-## [**commit**](http://localhost:3939/ascii/commit-4)
-### share
-
-^ commit: bc84098
-^ commit v1: 869ae01
+# branches are your friends
 
 ---
 
-# [fit] downcase authors
-
-### isolate
-### work
-### commit
-## [**share**](http://localhost:3939/ascii/share-4)
-
-^ Because there is no direct path from master to add-authors, git will not fast-forward. Instead it creates a new commit (a "merge" commit).
-^ commit: 
+# git doesn't lose things
 
 ---
 
-# transition!
-
----
-
-# index
-
-## "this is what I want to commit"
-
----
-
-# index
-
-^ data in the index has been added to the repository store, but is not yet incorportated into the commit history
-
----
-
-# branches
-
----
-
-# branches
-## are movable labels
-
-^ when you make a commit, git moves the "current branch" ahead to point at the new commit
-
----
-
-# branches
-## are for humans
-
-^ git only cares about SHAs. branches are to help humans deal with SHAs
-
----
-
-# branches
-## solve most problems
-
-^ when in doubt, make a branch to hold your place
-
----
-
-# how to branch
-
----
-
-# how to merge
-
----
-
-# how to rebase
-
----
-
-# etc
-
----
-
-# git flow
-
----
-
-# github flow
-
----
-
-# ya sci-fi/fantasy series
-
-1. harry potter
-- keeper of the lost cities
-- fairyland
-- wildwood
-- inheritance -- Christopher Paolini
-- school for good and evil
-- ranger's apprentice
-- miss peregrine's peculiar children -- Ransom Riggs
-- the apothecary
-- wondla
+# git is fun!
 
 ---
 
@@ -622,7 +515,8 @@
 
 # Resources
 
-- [Git for ages 4 and up (by Michael Schwern)](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+- [Git for ages 4 and up (Michael Schwern)](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+- [Simple made easy (Rich Hickey)](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [asciinema](https://asciinema.org)
-- Rich Hickey talk
+- [deckset](http://decksetapp.com)
 

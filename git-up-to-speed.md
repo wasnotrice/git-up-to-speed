@@ -398,8 +398,8 @@
 
 ---
 
-# [fit] back at the ranch
-## the series are restless...
+# [fit] meanwhile
+## [fit] the series are restless...
 
 ---
 

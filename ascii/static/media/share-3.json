@@ -2,7 +2,7 @@
   "version": 1,
   "width": 80,
   "height": 25,
-  "duration": 31.418325,
+  "duration": 29.521842,
   "command": "/bin/bash --rcfile /Users/eric/Dropbox/talks/git-up-to-speed/.ascii-bashrc",
   "title": null,
   "env": {
@@ -11,347 +11,411 @@
   },
   "stdout": [
     [
-      0.012682,
+      0.013602,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ],
     [
-      2.83288,
+      0.952541,
       "g"
     ],
     [
-      0.085025,
+      0.072805,
       "i"
     ],
     [
-      0.064195,
+      0.080013,
       "t"
     ],
     [
-      0.08248,
+      0.079717,
       " "
     ],
     [
-      0.109817,
+      2.008826,
       "l"
     ],
     [
-      0.19996,
+      0.159336,
       "o"
     ],
     [
-      0.089608,
+      0.064976,
       "g"
     ],
     [
-      0.174269,
+      0.175316,
       "g"
     ],
     [
-      0.455094,
+      0.105923,
       "\r\n"
     ],
     [
-      0.055385,
+      0.011185,
       "\u001b[?1h\u001b=\r"
     ],
     [
       4.6e-05,
-      "* \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+      "* \u001b[33med2819c\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-images\u001b[m\u001b[33m)\u001b[m Add cover images\u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n\u001b[31m|\u001b[m\u001b[31m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
     ],
     [
-      0.001025,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      1.449208,
-      "g"
-    ],
-    [
-      0.095257,
-      "i"
-    ],
-    [
-      0.104736,
-      "t"
-    ],
-    [
-      0.041378,
-      " "
-    ],
-    [
-      0.452945,
-      "s"
-    ],
-    [
-      0.056101,
-      "t"
-    ],
-    [
-      0.225012,
-      "a"
-    ],
-    [
-      0.059704,
-      "t"
-    ],
-    [
-      0.140357,
-      "u"
-    ],
-    [
-      0.159701,
-      "s"
-    ],
-    [
-      0.864833,
-      "\r\n"
-    ],
-    [
-      0.006831,
-      "On branch add-series\r\n"
-    ],
-    [
-      3.7e-05,
-      "nothing to commit, working directory clean\r\n"
-    ],
-    [
-      0.000695,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      2.37766,
-      "g"
-    ],
-    [
-      0.069858,
-      "i"
-    ],
-    [
-      0.088174,
-      "t"
-    ],
-    [
-      0.088108,
-      " "
-    ],
-    [
-      0.975954,
-      "c"
-    ],
-    [
-      0.063194,
-      "h"
-    ],
-    [
-      0.270662,
-      "e"
-    ],
-    [
-      0.098166,
-      "c"
-    ],
-    [
-      0.07944,
-      "k"
-    ],
-    [
-      0.208903,
-      "o"
-    ],
-    [
-      0.095715,
-      "u"
-    ],
-    [
-      0.207053,
-      "t"
-    ],
-    [
-      0.280293,
-      " "
-    ],
-    [
-      0.168467,
-      "m"
-    ],
-    [
-      0.135735,
-      "a"
-    ],
-    [
-      0.122347,
-      "s"
-    ],
-    [
-      0.085695,
-      "t"
-    ],
-    [
-      0.216038,
-      "e"
-    ],
-    [
-      0.104359,
-      "r"
-    ],
-    [
-      2.440104,
-      "\r\n"
-    ],
-    [
-      0.008894,
-      "Switched to branch 'master'\r\n"
-    ],
-    [
-      0.001058,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      1.237404,
-      "g"
-    ],
-    [
-      0.090156,
-      "i"
-    ],
-    [
-      0.078105,
-      "t"
-    ],
-    [
-      0.112366,
-      " "
-    ],
-    [
-      0.215481,
-      "m"
-    ],
-    [
-      0.167645,
-      "e"
-    ],
-    [
-      0.055866,
-      "r"
-    ],
-    [
-      1.21678,
-      "g"
-    ],
-    [
-      0.48069,
-      "e"
-    ],
-    [
-      0.127625,
-      " "
-    ],
-    [
-      0.130462,
-      "a"
-    ],
-    [
-      0.125544,
-      "d"
-    ],
-    [
-      0.175509,
-      "d"
-    ],
-    [
-      0.192652,
-      "-"
-    ],
-    [
-      0.20005,
-      "s"
-    ],
-    [
-      0.079001,
-      "e"
-    ],
-    [
-      0.105185,
-      "r"
-    ],
-    [
-      0.200417,
-      "i"
-    ],
-    [
-      0.111304,
-      "e"
-    ],
-    [
-      0.137205,
-      "s"
-    ],
-    [
-      2.126099,
-      "\r\n"
-    ],
-    [
-      0.005771,
-      "Updating 0c5366e..b41aca3\r\n"
-    ],
-    [
-      0.000857,
-      "Fast-forward\r\n"
-    ],
-    [
-      0.006614,
-      " top-series.md | 2 \u001b[32m++\u001b[m\r\n 1 file changed, 2 insertions(+)\r\n"
-    ],
-    [
-      0.001008,
-      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
-    ],
-    [
-      4.106335,
-      "g"
-    ],
-    [
-      0.098534,
-      "i"
-    ],
-    [
-      0.077753,
-      "t"
-    ],
-    [
-      0.071663,
-      " "
-    ],
-    [
-      2.543572,
-      "l"
-    ],
-    [
-      0.200244,
-      "o"
-    ],
-    [
-      0.144261,
-      "g"
-    ],
-    [
-      0.159424,
-      "g"
-    ],
-    [
-      0.616865,
-      "\r\n"
-    ],
-    [
-      0.011865,
-      "\u001b[?1h\u001b=\r* \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m, \u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
-    ],
-    [
-      2.7e-05,
+      2.1e-05,
       "\r\u001b[K\u001b[?1l\u001b>"
     ],
     [
-      0.000943,
+      0.000937,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      1.145803,
+      "g"
+    ],
+    [
+      0.079709,
+      "i"
+    ],
+    [
+      0.104134,
+      "t"
+    ],
+    [
+      0.063485,
+      " "
+    ],
+    [
+      0.362927,
+      "s"
+    ],
+    [
+      0.08513,
+      "t"
+    ],
+    [
+      0.275644,
+      "a"
+    ],
+    [
+      0.00019,
+      "t"
+    ],
+    [
+      0.164957,
+      "u"
+    ],
+    [
+      0.458022,
+      "s"
+    ],
+    [
+      0.229784,
+      "\r\n"
+    ],
+    [
+      0.007249,
+      "On branch master\r\nnothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      1.015106,
+      "g"
+    ],
+    [
+      0.088503,
+      "i"
+    ],
+    [
+      0.071852,
+      "t"
+    ],
+    [
+      0.088562,
+      " "
+    ],
+    [
+      0.192037,
+      "m"
+    ],
+    [
+      0.074394,
+      "e"
+    ],
+    [
+      0.068809,
+      "r"
+    ],
+    [
+      0.656671,
+      "g"
+    ],
+    [
+      0.208129,
+      "e"
+    ],
+    [
+      0.087921,
+      " "
+    ],
+    [
+      0.168226,
+      "a"
+    ],
+    [
+      0.215948,
+      "d"
+    ],
+    [
+      0.191096,
+      "d"
+    ],
+    [
+      0.153953,
+      "-"
+    ],
+    [
+      0.167257,
+      "s"
+    ],
+    [
+      0.071116,
+      "e"
+    ],
+    [
+      0.120858,
+      "r"
+    ],
+    [
+      0.159619,
+      "i"
+    ],
+    [
+      0.082033,
+      "e"
+    ],
+    [
+      0.232951,
+      "s"
+    ],
+    [
+      0.509209,
+      "\r\n"
+    ],
+    [
+      0.121462,
+      "\u001b7\u001b[?47h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.004635,
+      "\u001b[1;25r\u001b[m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[25;1H\"~/Dropbox/talks/git-up-to-speed/books/.git/MERGE_MSG\""
+    ],
+    [
+      0.000673,
+      "\r<Dropbox/talks/git-up-to-speed/books/.git/MERGE_MSG\" 7L, 253C"
+    ],
+    [
+      0.012402,
+      "\u001b[>c"
+    ],
+    [
+      0.001114,
+      "\u001b[1;1H\u001b[38m\u001b[410m  1 \u001b[m\u001b[37m\u001b[40m\u001b[32mMerge branch 'add-series'\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  2 \r\n  3 \u001b[m\u001b[37m\u001b[40m\u001b[38m# Please enter a commit message to explain why this merge is necessary,\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  4 \u001b[m\u001b[37m\u001b[40m\u001b[38m# especially if it merges an updated upstream into a topic branch.\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  5 \u001b[m\u001b[37m\u001b[40m\u001b[38m#\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  6 \u001b[m\u001b[37m\u001b[40m\u001b[38m# Lines starting with '#' will be ignored, and an empty message aborts\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  7 \u001b[m\u001b[37m\u001b[40m\u001b[38m# the commit.\r\n~                                                                               \u001b[9;1H~                                                                               \u001b[10;1H~                                                                               \u001b[11;1H~                                                                               \u001b[12;1H~                                                                               \u001b[13;1H~                                                        "
+    ],
+    [
+      6.8e-05,
+      "                       \u001b[14;1H~                                                                               \u001b[15;1H~                                                                               \u001b[16;1H~                                                                               \u001b[17;1H~                                                                               \u001b[18;1H~                                                                               \u001b[19;1H~                                                                               \u001b[20;1H~                                                                               \u001b[21;1H~                                                                               \u001b[22;1H~                                                                               \u001b[23;1H~                                                                               \u001b[24;1H~                                                                               \u001b[m\u001b[37m\u001b[40m\u001b[25;63H1,1"
+    ],
+    [
+      0.000178,
+      "\u001b[11CAll\u001b[1;5H"
+    ],
+    [
+      3.836611,
+      "\u001b[25;1H\u001b[1m\u001b[32m-- INSERT --\u001b[m\u001b[37m\u001b[40m\u001b[25;13H\u001b[K\u001b[25;63H2,1\u001b[11CTop"
+    ],
+    [
+      0.00051,
+      "\u001b[3;5H\u001b[K\u001b[4;7H\u001b[38mPlease enter a commit message to explain why this merge is necessary,\u001b[5;6H especially if it merges an updated upstream into a topic branch.\u001b[m\u001b[37m\u001b[40m\u001b[6;6H\u001b[K\u001b[7;7H\u001b[38mLines starting with '#' will be ignored, and an empty message aborts\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  8 \u001b[m\u001b[37m\u001b[40m\u001b[38m# the commit.\u001b[m\u001b[37m\u001b[40m\u001b[8;18H\u001b[K\u001b[2;5H"
+    ],
+    [
+      0.248986,
+      "\u001b[4;5H\u001b[K\u001b[5;7H\u001b[38mPlease enter a commit message to explain why this merge is necessary,\u001b[6;6H especially if it merges an updated upstream into a topic branch.\u001b[m\u001b[37m\u001b[40m\u001b[7;6H\u001b[K\u001b[8;7H\u001b[38mLines starting with '#' will be ignored, and an empty message aborts\u001b[m\u001b[37m\u001b[40m\r\n\u001b[38m\u001b[410m  9 \u001b[m\u001b[37m\u001b[40m\u001b[38m# the commit.\u001b[m\u001b[37m\u001b[40m\u001b[9;18H\u001b[K\u001b[25;63H3\u001b[13CAll\u001b[3;5H"
+    ],
+    [
+      0.934912,
+      "A\u001b[25;65H2\u001b[3;6H"
+    ],
+    [
+      0.216244,
+      "d\u001b[25;65H3\u001b[3;7H"
+    ],
+    [
+      0.173658,
+      "d\u001b[25;65H4\u001b[3;8H"
+    ],
+    [
+      0.091187,
+      "\u001b[38m·\u001b[m\u001b[37m\u001b[40m\u001b[25;65H5\u001b[3;9H"
+    ],
+    [
+      1.182139,
+      "\b w\u001b[25;65H6\u001b[3;10H"
+    ],
+    [
+      0.086744,
+      "i\u001b[25;65H7\u001b[3;11H"
+    ],
+    [
+      0.072363,
+      "l\u001b[25;65H8\u001b[3;12H"
+    ],
+    [
+      0.378634,
+      "d\u001b[25;65H9\u001b[3;13H"
+    ],
+    [
+      0.254477,
+      "w\u001b[25;65H10\u001b[3;14H"
+    ],
+    [
+      0.145836,
+      "o\u001b[25;66H1\u001b[3;15H"
+    ],
+    [
+      0.125524,
+      "o\u001b[25;66H2\u001b[3;16H"
+    ],
+    [
+      0.152452,
+      "d\u001b[25;66H3\u001b[3;17H"
+    ],
+    [
+      0.911874,
+      ",\u001b[25;66H4\u001b[3;18H"
+    ],
+    [
+      0.087981,
+      "\u001b[38m·\u001b[m\u001b[37m\u001b[40m\u001b[25;66H5\u001b[3;19H"
+    ],
+    [
+      0.360246,
+      "\b w\u001b[25;66H6\u001b[3;20H"
+    ],
+    [
+      0.070924,
+      "o\u001b[25;66H7\u001b[3;21H"
+    ],
+    [
+      0.075076,
+      "n\u001b[25;66H8\u001b[3;22H"
+    ],
+    [
+      0.133515,
+      "d\u001b[25;66H9\u001b[3;23H"
+    ],
+    [
+      0.519323,
+      "l\u001b[25;65H20\u001b[3;24H"
+    ],
+    [
+      0.105339,
+      "a\u001b[25;66H1\u001b[3;25H"
+    ],
+    [
+      0.370445,
+      "\u001b[25;1H\u001b[K\u001b[3;24H"
+    ],
+    [
+      0.286123,
+      "\u001b[25;63H3,20\u001b[10CAll\u001b[3;24H\u001b[25;63H\u001b[K\u001b[25;1H:"
+    ],
+    [
+      0.286184,
+      "w"
+    ],
+    [
+      0.115156,
+      "q"
+    ],
+    [
+      0.157861,
+      "\r"
+    ],
+    [
+      0.000147,
+      "\".git/MERGE_MSG\""
+    ],
+    [
+      0.00179,
+      " 9L, 275C written"
+    ],
+    [
+      0.00224,
+      "\r\r\r\n\u001b[m\u001b[?1l\u001b>\u001b[2J\u001b[?47l\u001b8"
+    ],
+    [
+      0.006212,
+      "Merge made by the 'recursive' strategy.\r\n"
+    ],
+    [
+      0.011858,
+      " top-series.md | 2 \u001b[32m++\u001b[m\r\n 1 file changed, 2 insertions(+)\r\n"
+    ],
+    [
+      0.003895,
+      "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
+    ],
+    [
+      0.393854,
+      "g"
+    ],
+    [
+      0.103716,
+      "i"
+    ],
+    [
+      0.039542,
+      "t"
+    ],
+    [
+      0.098333,
+      " "
+    ],
+    [
+      0.117013,
+      "l"
+    ],
+    [
+      0.185657,
+      "o"
+    ],
+    [
+      0.191917,
+      "g"
+    ],
+    [
+      0.339937,
+      "g"
+    ],
+    [
+      0.091587,
+      "\r\n"
+    ],
+    [
+      0.014248,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      5.8e-05,
+      "*   \u001b[33m2640dc4\u001b[m\u001b[33m (\u001b[1;35mHEAD\u001b[m\u001b[33m, \u001b[1;33mmaster\u001b[m\u001b[33m)\u001b[m Merge branch 'add-series'\u001b[m\r\n\u001b[31m|\u001b[m\u001b[32m\\\u001b[m  \u001b[m\r\n\u001b[31m|\u001b[m * \u001b[33mb41aca3\u001b[m\u001b[33m (\u001b[1;33madd-series\u001b[m\u001b[33m)\u001b[m Add wondla and wildwood\u001b[m\r\n* \u001b[32m|\u001b[m \u001b[33med2819c\u001b[m\u001b[33m (\u001b[1;33madd-images\u001b[m\u001b[33m)\u001b[m Add cover images\u001b[m\r\n\u001b[32m|\u001b[m\u001b[32m/\u001b[m  \u001b[m\r\n* \u001b[33m0c5366e\u001b[m\u001b[33m (\u001b[1;33madd-authors\u001b[m\u001b[33m)\u001b[m Add authors for top 3 series\u001b[m\r\n* \u001b[33m0376119\u001b[m Add top series list\u001b[m\r\n"
+    ],
+    [
+      2.2e-05,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.000994,
       "\u001b[35m[\u001b[meric\u001b[35m:\u001b[m\u001bmbooks\u001b[m\u001b[35m]\u001b[m $ "
     ]
   ]

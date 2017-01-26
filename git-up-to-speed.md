@@ -417,6 +417,8 @@
 
 # [fit] [add even more series](http://localhost:3939/ascii/commit-5)
 
+^ commit: 3b5f218
+
 ---
 
 # [fit] [add more images](http://localhost:3939/ascii/commit-6)
@@ -430,7 +432,7 @@
   - wildwood
   - wondla
 - Add
-- Commit
+- commit: d6532a8
 
 ---
 
@@ -457,7 +459,29 @@
 - commit
 - merge --no-ff
 
+^ commit:
+- rebased: 8380a04
+- images: 5f62ef9
+- merge: 62ada9d
+
 ---
+
+# [fit] rebase can be dangerous
+## [fit] "lost" commits
+
+---
+
+# except...
+
+---
+
+# [fit] git is non-destructive
+## [fit] [your commits are still there](http://localhost:3939/ascii/find-lost-commit)
+
+^ "lost" commmit: 3b5f218
+
+---
+
 
 
 # [fit] downcase authors
